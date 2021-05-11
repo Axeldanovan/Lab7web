@@ -51,6 +51,7 @@
 ![Screenshot_116](https://user-images.githubusercontent.com/81457697/117738782-0b6b9280-b227-11eb-9ffc-29272b95f4bb.png)
 
 #MEMBUAT OUPUT FORM
+
 ![Screenshot_122](https://user-images.githubusercontent.com/81457697/117738833-22aa8000-b227-11eb-878b-3627ca174e80.png)
 
 ![Screenshot_117](https://user-images.githubusercontent.com/81457697/117738846-276f3400-b227-11eb-9984-27a998a8eb5e.png)
