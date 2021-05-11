@@ -11,6 +11,7 @@
 ![Screenshot_127](https://user-images.githubusercontent.com/81457697/117737943-16bdbe80-b225-11eb-9f06-4041d902fee8.png)
 
 #Membuat Operator
+
 ![Screenshot_129](https://user-images.githubusercontent.com/81457697/117738019-440a6c80-b225-11eb-8282-f9793dd74951.png)
 
 ![Screenshot_130](https://user-images.githubusercontent.com/81457697/117738033-4c62a780-b225-11eb-8d1f-f966132cb615.png)
@@ -20,16 +21,19 @@
 ![Screenshot_131](https://user-images.githubusercontent.com/81457697/117738084-6bf9d000-b225-11eb-8541-af0e20ef2ca4.png)
 
 #Membuat for
+
 ![Screenshot_137](https://user-images.githubusercontent.com/81457697/117738316-f5a99d80-b225-11eb-9874-be11068e9d6c.png)
 
 ![Screenshot_133](https://user-images.githubusercontent.com/81457697/117738336-03f7b980-b226-11eb-8ff3-aa2652e227d0.png)
 
 #Membuat  perulangan While
+
 ![Screenshot_135](https://user-images.githubusercontent.com/81457697/117738391-1c67d400-b226-11eb-8f6b-024c717c2b74.png)
 
 ![Screenshot_136](https://user-images.githubusercontent.com/81457697/117738416-2a1d5980-b226-11eb-8bba-89b0add26846.png)
 
 #membuar perulangan dowhile
+
 ![Screenshot_138](https://user-images.githubusercontent.com/81457697/117738640-b3cd2700-b226-11eb-8afc-7054a2c75580.png)
 
 ![Screenshot_136](https://user-images.githubusercontent.com/81457697/117738659-be87bc00-b226-11eb-9a06-210e772f87d8.png)
